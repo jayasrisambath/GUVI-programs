@@ -1,4 +1,4 @@
-l=int(input())
+l=input()
 if l>='a' and l<='z':
          if l in ('a','e','i','o','u'):
                   print("Vowel")
